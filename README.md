@@ -2,4 +2,16 @@ Sort
 ====
 
 All kinds of sort methods
-Change Test again and again
+
+insertionSort()
+
+shellSort()
+
+simpleSelectionSort()
+
+bubbleSort()
+
+quickSort()
+
+
+
